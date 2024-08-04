@@ -25,12 +25,12 @@ Abstract Factory defines an interface for creating all distinct products but lea
 
 ## Pros and Cons
 
-|                                                               Pros                                                                |                                                                   Cons                                                                   |
-| --------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| You can be sure that the products you’re getting from a factory are compatible with each other.                                   | The code may become more complicated than it should be, since a lot of new interfaces and classes are introduced along with the pattern. |
-| You avoid tight coupling between concrete products and client code.                                                               |                                                                                                                                          |
-| __Single Responsibility Principle__. You can extract the product creation code into one place, making the code easier to support. |                                                                                                                                          |
-| __Open/Closed Principle__. You can introduce new variants of products without breaking existing client code.                      |                                                                                                                                          |
+| Pros                                                                                                                            | Cons                                                                                                                                     |
+|---------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| You can be sure that the products you’re getting from a factory are compatible with each other.                                 | The code may become more complicated than it should be, since a lot of new interfaces and classes are introduced along with the pattern. |
+| You avoid tight coupling between concrete products and client code.                                                             |                                                                                                                                          |
+| _Single Responsibility Principle_. You can extract the product creation code into one place, making the code easier to support. |                                                                                                                                          |
+| _Open/Closed Principle_. You can introduce new variants of products without breaking existing client code.                      |                                                                                                                                          |
 
 ## Python
 
