@@ -4,7 +4,7 @@ Design patterns are implemented in programming languages
 
 1. [Creational design patterns](https://refactoring.guru/design-patterns/creational-patterns)
    1. Factory method
-   2. Abstract factory
+   2. [Abstract factory](./abstract_factory/)
    3. Builder
    4. Prototype
    5. Singleton
