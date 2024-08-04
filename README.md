@@ -3,136 +3,139 @@
 Design patterns are implemented in programming languages
 
 1. [Creational design patterns](https://refactoring.guru/design-patterns/creational-patterns)
+   
    1. Factory method
       
       | Python | Go | PHP | Java | Rust | Ruby | Typescript |
       |--------|----|-----|------|------|------|------------|
       |        |    |     |      |      |      |            |
 
-   2. [Abstract factory](./abstract_factory/)
+   1. [Abstract factory](./abstract_factory/)
 
       | Python                             | Go | PHP | Java | Rust | Ruby | Typescript |
       |------------------------------------|----|-----|------|------|------|------------|
       | [Done](./abstract_factory/main.py) |    |     |      |      |      |            |
 
-   3. Builder
+   1. Builder
       
       | Python | Go | PHP | Java | Rust | Ruby | Typescript |
       |--------|----|-----|------|------|------|------------|
       |        |    |     |      |      |      |            |
 
-   4. Prototype
+   1. Prototype
       
       | Python | Go | PHP | Java | Rust | Ruby | Typescript |
       |--------|----|-----|------|------|------|------------|
       |        |    |     |      |      |      |            |
 
-   5. Singleton
+   1. Singleton
       
       | Python | Go | PHP | Java | Rust | Ruby | Typescript |
       |--------|----|-----|------|------|------|------------|
       |        |    |     |      |      |      |            |
 
-2. [Structural design patterns](https://refactoring.guru/design-patterns/structural-patterns)
+1. [Structural design patterns](https://refactoring.guru/design-patterns/structural-patterns)
+   
    1. Adapter
       
       | Python | Go | PHP | Java | Rust | Ruby | Typescript |
       |--------|----|-----|------|------|------|------------|
       |        |    |     |      |      |      |            |
 
-   2. Bridge
+   1. Bridge
       
       | Python | Go | PHP | Java | Rust | Ruby | Typescript |
       |--------|----|-----|------|------|------|------------|
       |        |    |     |      |      |      |            |
 
-   3. Composite
+   1. Composite
       
       | Python | Go | PHP | Java | Rust | Ruby | Typescript |
       |--------|----|-----|------|------|------|------------|
       |        |    |     |      |      |      |            |
 
-   4. Decorator
+   1. Decorator
       
       | Python | Go | PHP | Java | Rust | Ruby | Typescript |
       |--------|----|-----|------|------|------|------------|
       |        |    |     |      |      |      |            |
 
-   5. Facade
+   1. Facade
       
       | Python | Go | PHP | Java | Rust | Ruby | Typescript |
       |--------|----|-----|------|------|------|------------|
       |        |    |     |      |      |      |            |
 
-   6. Flyweight
+   1. Flyweight
       
       | Python | Go | PHP | Java | Rust | Ruby | Typescript |
       |--------|----|-----|------|------|------|------------|
       |        |    |     |      |      |      |            |
 
-   7. Proxy
+   1. Proxy
       
       | Python | Go | PHP | Java | Rust | Ruby | Typescript |
       |--------|----|-----|------|------|------|------------|
       |        |    |     |      |      |      |            |
 
-3. [Behavioral design patterns](https://refactoring.guru/design-patterns/behavioral-patterns)
+1. [Behavioral design patterns](https://refactoring.guru/design-patterns/behavioral-patterns)
+   
    1. Chain of responsibility
       
       | Python | Go | PHP | Java | Rust | Ruby | Typescript |
       |--------|----|-----|------|------|------|------------|
       |        |    |     |      |      |      |            |
 
-   2. Command
+   1. Command
       
       | Python | Go | PHP | Java | Rust | Ruby | Typescript |
       |--------|----|-----|------|------|------|------------|
       |        |    |     |      |      |      |            |
 
-   3. Iterator
+   1. Iterator
       
       | Python | Go | PHP | Java | Rust | Ruby | Typescript |
       |--------|----|-----|------|------|------|------------|
       |        |    |     |      |      |      |            |
 
-   4. Mediator
+   1. Mediator
       
       | Python | Go | PHP | Java | Rust | Ruby | Typescript |
       |--------|----|-----|------|------|------|------------|
       |        |    |     |      |      |      |            |
 
-   5. Memento
+   1. Memento
       
       | Python | Go | PHP | Java | Rust | Ruby | Typescript |
       |--------|----|-----|------|------|------|------------|
       |        |    |     |      |      |      |            |
 
-   6. Observer
+   1. Observer
       
       | Python | Go | PHP | Java | Rust | Ruby | Typescript |
       |--------|----|-----|------|------|------|------------|
       |        |    |     |      |      |      |            |
 
-   7. State
+   1. State
       
       | Python | Go | PHP | Java | Rust | Ruby | Typescript |
       |--------|----|-----|------|------|------|------------|
       |        |    |     |      |      |      |            |
 
-   8. Strategy
+   1. Strategy
       
       | Python | Go | PHP | Java | Rust | Ruby | Typescript |
       |--------|----|-----|------|------|------|------------|
       |        |    |     |      |      |      |            |
 
-   9. Template method
+   1. Template method
       
       | Python | Go | PHP | Java | Rust | Ruby | Typescript |
       |--------|----|-----|------|------|------|------------|
       |        |    |     |      |      |      |            |
 
-   10. Visitor
-      
+   1. Visitor
+
       | Python | Go | PHP | Java | Rust | Ruby | Typescript |
       |--------|----|-----|------|------|------|------------|
       |        |    |     |      |      |      |            |
