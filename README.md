@@ -4,7 +4,7 @@ Design patterns are implemented in programming languages
 
 1. [Creational design patterns](https://refactoring.guru/design-patterns/creational-patterns)
    
-   1. Factory method
+   1. [Factory method](./factory_method/)
       
       | Docs                               | Python                           | Go | PHP | Java | Rust | Ruby | Typescript |
       |------------------------------------|----------------------------------|----|-----|------|------|------|------------|
@@ -16,11 +16,11 @@ Design patterns are implemented in programming languages
       |--------------------------------------|------------------------------------|----|-----|------|------|------|------------|
       | [Done](./abstract_factory/README.md) | [Done](./abstract_factory/main.py) |    |     |      |      |      |            |
 
-   1. Builder
+   1. [Builder](./builder/)
       
-      | Docs | Python | Go | PHP | Java | Rust | Ruby | Typescript |
-      |------|--------|----|-----|------|------|------|------------|
-      |      |        |    |     |      |      |      |            |
+      | Docs                        | Python                    | Go | PHP | Java | Rust | Ruby | Typescript |
+      |-----------------------------|---------------------------|----|-----|------|------|------|------------|
+      | [Done](./builder/README.md) | [Done](./builder/main.py) |    |     |      |      |      |            |
 
    1. Prototype
       
