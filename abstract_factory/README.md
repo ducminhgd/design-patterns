@@ -1,5 +1,7 @@
 ---
-group: Creational design patterns
+Group: Creational design patterns
+Complexity: ★★☆
+Popularity: ★★★
 ---
 # Abstract factory
 
