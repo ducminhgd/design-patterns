@@ -14,3 +14,4 @@
 ## Structural Patterns
 
 * [Adapter](./structural-patterns/adapter/README.md)
+* [Brige](./structural-patterns/bridge/README.md)

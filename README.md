@@ -46,9 +46,9 @@ Design patterns are implemented in programming languages
 
 2.  Bridge
 
-    | Docs | Python | Go  | PHP | Java | Rust | Ruby | Typescript |
-    | ---- | ------ | --- | --- | ---- | ---- | ---- | ---------- |
-    |      |        |     |     |      |      |      |            |
+    | Docs                                           | Python                                       | Go  | PHP | Java | Rust | Ruby | Typescript |
+    | ---------------------------------------------- | -------------------------------------------- | --- | --- | ---- | ---- | ---- | ---------- |
+    | [Done](./structural-patterns/bridge/README.md) | [Done](./structural-patterns/bridge/main.py) |     |     |      |      |      |            |
 
 3.  Composite
 
