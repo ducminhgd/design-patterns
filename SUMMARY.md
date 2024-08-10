@@ -15,3 +15,4 @@
 
 * [Adapter](./structural-patterns/adapter/README.md)
 * [Brige](./structural-patterns/bridge/README.md)
+* [Composite](./structural-patterns/composite/README.md)
