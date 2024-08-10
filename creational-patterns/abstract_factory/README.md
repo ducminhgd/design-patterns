@@ -15,7 +15,7 @@ Abstract Factory defines an interface for creating all distinct products but lea
 
 ## Structure
 
-![](../media/abstract_factory.png)
+![](../../media/abstract_factory.png)
 
 1. **Abstract Products** declare interfaces for a set of distinct but related products which make up a product family.
 2. **Concrete Products** are various implementations of abstract products, grouped by variants. Each abstract product (chair/sofa) must be implemented in all given variants (Victorian/Modern).

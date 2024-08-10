@@ -13,7 +13,7 @@ Singleton is a creational design pattern that lets you ensure that a class has o
 
 ## Structure
 
-![](../media/singleton.png)
+![](../../media/singleton.png)
 
 The **Singleton** class declares the static method `getInstance` that returns the same instance of its own class.
 

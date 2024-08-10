@@ -9,7 +9,7 @@ Factory Method is a creational design pattern that provides an interface for cre
 
 ## Structure
 
-![](../media/factory_method.png)
+![](../../media/factory_method.png)
 
 1. The **Product** declares the interface, which is common to all objects that can be produced by the creator and its subclasses.
 2. **Concrete Products** are different implementations of the product interface.

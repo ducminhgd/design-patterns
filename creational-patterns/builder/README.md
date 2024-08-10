@@ -14,7 +14,7 @@ Unlike other creational patterns, Builder doesn’t require products to have a c
 
 ## Structure
 
-![](../media/builder.png)
+![](../../media/builder.png)
 
 1. The **Builder** interface declares product construction steps that are common to all types of builders.
 2. **Concrete Builders** provide different implementations of the construction steps. Concrete builders may produce products that don’t follow the common interface.
