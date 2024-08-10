@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Design patterns](README.md)
+* [Index](README.md)
 
 ## Creational Patterns
 
