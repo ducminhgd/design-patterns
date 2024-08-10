@@ -3,140 +3,115 @@
 Design patterns are implemented in programming languages
 
 1. [Creational design patterns](https://refactoring.guru/design-patterns/creational-patterns)
-   
-   1. [Factory method](./creational-patterns/factory_method/)
-      
-      | Docs                                                   | Python                                               | Go  | PHP | Java | Rust | Ruby | Typescript |
-      | ------------------------------------------------------ | ---------------------------------------------------- | --- | --- | ---- | ---- | ---- | ---------- |
-      | [Done](./creational-patterns/factory_method/README.md) | [Done](./creational-patterns/factory_method/main.py) |     |     |      |      |      |            |
+   1.  [Factory method](creational-patterns/factory\_method.md)
 
-   1. [Abstract factory](./creational-patterns/abstract_factory/)
+       | Docs                                           | Python                                              | Go | PHP | Java | Rust | Ruby | Typescript |
+       | ---------------------------------------------- | --------------------------------------------------- | -- | --- | ---- | ---- | ---- | ---------- |
+       | [Done](creational-patterns/factory\_method.md) | [Done](creational-patterns/factory\_method/main.py) |    |     |      |      |      |            |
+   2.  [Abstract factory](creational-patterns/abstract\_factory.md)
 
-      | Docs                                                     | Python                                                 | Go  | PHP | Java | Rust | Ruby | Typescript |
-      | -------------------------------------------------------- | ------------------------------------------------------ | --- | --- | ---- | ---- | ---- | ---------- |
-      | [Done](./creational-patterns/abstract_factory/README.md) | [Done](./creational-patterns/abstract_factory/main.py) |     |     |      |      |      |            |
+       | Docs                                             | Python                                                | Go | PHP | Java | Rust | Ruby | Typescript |
+       | ------------------------------------------------ | ----------------------------------------------------- | -- | --- | ---- | ---- | ---- | ---------- |
+       | [Done](creational-patterns/abstract\_factory.md) | [Done](creational-patterns/abstract\_factory/main.py) |    |     |      |      |      |            |
+   3.  [Builder](creational-patterns/builder.md)
 
-   1. [Builder](./creational-patterns/builder/)
-      
-      | Docs                                            | Python                                        | Go  | PHP | Java | Rust | Ruby | Typescript |
-      | ----------------------------------------------- | --------------------------------------------- | --- | --- | ---- | ---- | ---- | ---------- |
-      | [Done](./creational-patterns/builder/README.md) | [Done](./creational-patterns/builder/main.py) |     |     |      |      |      |            |
+       | Docs                                   | Python                                      | Go | PHP | Java | Rust | Ruby | Typescript |
+       | -------------------------------------- | ------------------------------------------- | -- | --- | ---- | ---- | ---- | ---------- |
+       | [Done](creational-patterns/builder.md) | [Done](creational-patterns/builder/main.py) |    |     |      |      |      |            |
+   4.  Prototype
 
-   1. Prototype
-      
-      | Docs                                              | Python                                          | Go  | PHP | Java | Rust | Ruby | Typescript |
-      | ------------------------------------------------- | ----------------------------------------------- | --- | --- | ---- | ---- | ---- | ---------- |
-      | [Done](./creational-patterns/prototype/README.md) | [Done](./creational-patterns/prototype/main.py) |     |     |      |      |      |            |
+       | Docs                                     | Python                                        | Go | PHP | Java | Rust | Ruby | Typescript |
+       | ---------------------------------------- | --------------------------------------------- | -- | --- | ---- | ---- | ---- | ---------- |
+       | [Done](creational-patterns/prototype.md) | [Done](creational-patterns/prototype/main.py) |    |     |      |      |      |            |
+   5.  Singleton
 
-   1. Singleton
-      
-      | Docs                                              | Python                                                                                                                      | Go  | PHP | Java | Rust | Ruby | Typescript |
-      | ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | --- | --- | ---- | ---- | ---- | ---------- |
-      | [Done](./creational-patterns/singleton/README.md) | [Naive singleton](./creational-patterns/singleton/naive.py) & [Thread-safe](./creational-patterns/singleton/thread_safe.py) |     |     |      |      |      |            |
+       | Docs                                     | Python                                                                                                                   | Go | PHP | Java | Rust | Ruby | Typescript |
+       | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | -- | --- | ---- | ---- | ---- | ---------- |
+       | [Done](creational-patterns/singleton.md) | [Naive singleton](creational-patterns/singleton/naive.py) & [Thread-safe](creational-patterns/singleton/thread\_safe.py) |    |     |      |      |      |            |
+2. [Structural design patterns](https://refactoring.guru/design-patterns/structural-patterns)
+   1.  Adapter
 
-1. [Structural design patterns](https://refactoring.guru/design-patterns/structural-patterns)
-   
-   1. Adapter
-      
-      | Docs | Python | Go  | PHP | Java | Rust | Ruby | Typescript |
-      | ---- | ------ | --- | --- | ---- | ---- | ---- | ---------- |
-      |      |        |     |     |      |      |      |            |
+       | Docs | Python | Go | PHP | Java | Rust | Ruby | Typescript |
+       | ---- | ------ | -- | --- | ---- | ---- | ---- | ---------- |
+       |      |        |    |     |      |      |      |            |
+   2.  Bridge
 
-   1. Bridge
-      
-      | Docs | Python | Go  | PHP | Java | Rust | Ruby | Typescript |
-      | ---- | ------ | --- | --- | ---- | ---- | ---- | ---------- |
-      |      |        |     |     |      |      |      |            |
+       | Docs | Python | Go | PHP | Java | Rust | Ruby | Typescript |
+       | ---- | ------ | -- | --- | ---- | ---- | ---- | ---------- |
+       |      |        |    |     |      |      |      |            |
+   3.  Composite
 
-   1. Composite
-      
-      | Docs | Python | Go  | PHP | Java | Rust | Ruby | Typescript |
-      | ---- | ------ | --- | --- | ---- | ---- | ---- | ---------- |
-      |      |        |     |     |      |      |      |            |
+       | Docs | Python | Go | PHP | Java | Rust | Ruby | Typescript |
+       | ---- | ------ | -- | --- | ---- | ---- | ---- | ---------- |
+       |      |        |    |     |      |      |      |            |
+   4.  Decorator
 
-   1. Decorator
-      
-      | Docs | Python | Go  | PHP | Java | Rust | Ruby | Typescript |
-      | ---- | ------ | --- | --- | ---- | ---- | ---- | ---------- |
-      |      |        |     |     |      |      |      |            |
+       | Docs | Python | Go | PHP | Java | Rust | Ruby | Typescript |
+       | ---- | ------ | -- | --- | ---- | ---- | ---- | ---------- |
+       |      |        |    |     |      |      |      |            |
+   5.  Facade
 
-   1. Facade
-      
-      | Docs | Python | Go  | PHP | Java | Rust | Ruby | Typescript |
-      | ---- | ------ | --- | --- | ---- | ---- | ---- | ---------- |
-      |      |        |     |     |      |      |      |            |
+       | Docs | Python | Go | PHP | Java | Rust | Ruby | Typescript |
+       | ---- | ------ | -- | --- | ---- | ---- | ---- | ---------- |
+       |      |        |    |     |      |      |      |            |
+   6.  Flyweight
 
-   1. Flyweight
-      
-      | Docs | Python | Go  | PHP | Java | Rust | Ruby | Typescript |
-      | ---- | ------ | --- | --- | ---- | ---- | ---- | ---------- |
-      |      |        |     |     |      |      |      |            |
+       | Docs | Python | Go | PHP | Java | Rust | Ruby | Typescript |
+       | ---- | ------ | -- | --- | ---- | ---- | ---- | ---------- |
+       |      |        |    |     |      |      |      |            |
+   7.  Proxy
 
-   1. Proxy
-      
-      | Docs | Python | Go  | PHP | Java | Rust | Ruby | Typescript |
-      | ---- | ------ | --- | --- | ---- | ---- | ---- | ---------- |
-      |      |        |     |     |      |      |      |            |
+       | Docs | Python | Go | PHP | Java | Rust | Ruby | Typescript |
+       | ---- | ------ | -- | --- | ---- | ---- | ---- | ---------- |
+       |      |        |    |     |      |      |      |            |
+3. [Behavioral design patterns](https://refactoring.guru/design-patterns/behavioral-patterns)
+   1.  Chain of responsibility
 
-1. [Behavioral design patterns](https://refactoring.guru/design-patterns/behavioral-patterns)
-   
-   1. Chain of responsibility
-      
-      | Docs | Python | Go  | PHP | Java | Rust | Ruby | Typescript |
-      | ---- | ------ | --- | --- | ---- | ---- | ---- | ---------- |
-      |      |        |     |     |      |      |      |            |
+       | Docs | Python | Go | PHP | Java | Rust | Ruby | Typescript |
+       | ---- | ------ | -- | --- | ---- | ---- | ---- | ---------- |
+       |      |        |    |     |      |      |      |            |
+   2.  Command
 
-   1. Command
-      
-      | Docs | Python | Go  | PHP | Java | Rust | Ruby | Typescript |
-      | ---- | ------ | --- | --- | ---- | ---- | ---- | ---------- |
-      |      |        |     |     |      |      |      |            |
+       | Docs | Python | Go | PHP | Java | Rust | Ruby | Typescript |
+       | ---- | ------ | -- | --- | ---- | ---- | ---- | ---------- |
+       |      |        |    |     |      |      |      |            |
+   3.  Iterator
 
-   1. Iterator
-      
-      | Docs | Python | Go  | PHP | Java | Rust | Ruby | Typescript |
-      | ---- | ------ | --- | --- | ---- | ---- | ---- | ---------- |
-      |      |        |     |     |      |      |      |            |
+       | Docs | Python | Go | PHP | Java | Rust | Ruby | Typescript |
+       | ---- | ------ | -- | --- | ---- | ---- | ---- | ---------- |
+       |      |        |    |     |      |      |      |            |
+   4.  Mediator
 
-   1. Mediator
-      
-      | Docs | Python | Go  | PHP | Java | Rust | Ruby | Typescript |
-      | ---- | ------ | --- | --- | ---- | ---- | ---- | ---------- |
-      |      |        |     |     |      |      |      |            |
+       | Docs | Python | Go | PHP | Java | Rust | Ruby | Typescript |
+       | ---- | ------ | -- | --- | ---- | ---- | ---- | ---------- |
+       |      |        |    |     |      |      |      |            |
+   5.  Memento
 
-   1. Memento
-      
-      | Docs | Python | Go  | PHP | Java | Rust | Ruby | Typescript |
-      | ---- | ------ | --- | --- | ---- | ---- | ---- | ---------- |
-      |      |        |     |     |      |      |      |            |
+       | Docs | Python | Go | PHP | Java | Rust | Ruby | Typescript |
+       | ---- | ------ | -- | --- | ---- | ---- | ---- | ---------- |
+       |      |        |    |     |      |      |      |            |
+   6.  Observer
 
-   1. Observer
-      
-      | Docs | Python | Go  | PHP | Java | Rust | Ruby | Typescript |
-      | ---- | ------ | --- | --- | ---- | ---- | ---- | ---------- |
-      |      |        |     |     |      |      |      |            |
+       | Docs | Python | Go | PHP | Java | Rust | Ruby | Typescript |
+       | ---- | ------ | -- | --- | ---- | ---- | ---- | ---------- |
+       |      |        |    |     |      |      |      |            |
+   7.  State
 
-   1. State
-      
-      | Docs | Python | Go  | PHP | Java | Rust | Ruby | Typescript |
-      | ---- | ------ | --- | --- | ---- | ---- | ---- | ---------- |
-      |      |        |     |     |      |      |      |            |
+       | Docs | Python | Go | PHP | Java | Rust | Ruby | Typescript |
+       | ---- | ------ | -- | --- | ---- | ---- | ---- | ---------- |
+       |      |        |    |     |      |      |      |            |
+   8.  Strategy
 
-   1. Strategy
-      
-      | Docs | Python | Go  | PHP | Java | Rust | Ruby | Typescript |
-      | ---- | ------ | --- | --- | ---- | ---- | ---- | ---------- |
-      |      |        |     |     |      |      |      |            |
+       | Docs | Python | Go | PHP | Java | Rust | Ruby | Typescript |
+       | ---- | ------ | -- | --- | ---- | ---- | ---- | ---------- |
+       |      |        |    |     |      |      |      |            |
+   9.  Template method
 
-   1. Template method
-      
-      | Docs | Python | Go  | PHP | Java | Rust | Ruby | Typescript |
-      | ---- | ------ | --- | --- | ---- | ---- | ---- | ---------- |
-      |      |        |     |     |      |      |      |            |
+       | Docs | Python | Go | PHP | Java | Rust | Ruby | Typescript |
+       | ---- | ------ | -- | --- | ---- | ---- | ---- | ---------- |
+       |      |        |    |     |      |      |      |            |
+   10. Visitor
 
-   1. Visitor
-
-      | Docs | Python | Go  | PHP | Java | Rust | Ruby | Typescript |
-      | ---- | ------ | --- | --- | ---- | ---- | ---- | ---------- |
-      |      |        |     |     |      |      |      |            |
-
+       | Docs | Python | Go | PHP | Java | Rust | Ruby | Typescript |
+       | ---- | ------ | -- | --- | ---- | ---- | ---- | ---------- |
+       |      |        |    |     |      |      |      |            |

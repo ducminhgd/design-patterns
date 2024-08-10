@@ -2,11 +2,11 @@
 
 * [Design patterns](README.md)
 * [creational-patterns](creational-patterns/README.md)
-  * [Abstract factory](creational-patterns/abstract\_factory/README.md)
-  * [Builder](creational-patterns/builder/README.md)
-  * [Factory method](creational-patterns/factory\_method/README.md)
-  * [Protoype](creational-patterns/prototype/README.md)
-  * [Singleton](creational-patterns/singleton/README.md)
+  * [Abstract factory](creational-patterns/abstract\_factory.md)
+  * [Builder](creational-patterns/builder.md)
+  * [Factory method](creational-patterns/factory\_method.md)
+  * [Protoype](creational-patterns/prototype.md)
+  * [Singleton](creational-patterns/singleton.md)
 
 ## Creational Patterns
 
