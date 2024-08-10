@@ -24,9 +24,9 @@ Design patterns are implemented in programming languages
 
    1. Prototype
       
-      | Docs | Python | Go | PHP | Java | Rust | Ruby | Typescript |
-      |------|--------|----|-----|------|------|------|------------|
-      |      |        |    |     |      |      |      |            |
+      | Docs                          | Python                      | Go | PHP | Java | Rust | Ruby | Typescript |
+      |-------------------------------|-----------------------------|----|-----|------|------|------|------------|
+      | [Done](./prototype/README.md) | [Done](./prototype/main.py) |    |     |      |      |      |            |
 
    1. Singleton
       
