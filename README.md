@@ -4,31 +4,31 @@ Design patterns are implemented in programming languages
 
 ## [Creational design patterns](https://refactoring.guru/design-patterns/creational-patterns)
 
-1.  Factory method
+### Factory method
 
     | Docs                                             | Python                                                | Go  | PHP | Java | Rust | Ruby | Typescript |
     | ------------------------------------------------ | ----------------------------------------------------- | --- | --- | ---- | ---- | ---- | ---------- |
     | [Done](./creational-patterns/factory\_method.md) | [Done](./creational-patterns/factory\_method/main.py) |     |     |      |      |      |            |
 
-2.  Abstract factory
+### Abstract factory
 
     | Docs                                               | Python                                                  | Go  | PHP | Java | Rust | Ruby | Typescript |
     | -------------------------------------------------- | ------------------------------------------------------- | --- | --- | ---- | ---- | ---- | ---------- |
     | [Done](./creational-patterns/abstract\_factory.md) | [Done](./creational-patterns/abstract\_factory/main.py) |     |     |      |      |      |            |
 
-3.  Builder
+### Builder
 
     | Docs                                     | Python                                        | Go  | PHP | Java | Rust | Ruby | Typescript |
     | ---------------------------------------- | --------------------------------------------- | --- | --- | ---- | ---- | ---- | ---------- |
     | [Done](./creational-patterns/builder.md) | [Done](./creational-patterns/builder/main.py) |     |     |      |      |      |            |
 
-4.  Prototype
+### Prototype
 
     | Docs                                       | Python                                          | Go  | PHP | Java | Rust | Ruby | Typescript |
     | ------------------------------------------ | ----------------------------------------------- | --- | --- | ---- | ---- | ---- | ---------- |
     | [Done](./creational-patterns/prototype.md) | [Done](./creational-patterns/prototype/main.py) |     |     |      |      |      |            |
 
-5.  Singleton
+### Singleton
 
     | Docs                                       | Python                                                         | Go  | PHP | Java | Rust | Ruby | Typescript |
     | ------------------------------------------ | -------------------------------------------------------------- | --- | --- | ---- | ---- | ---- | ---------- |
@@ -37,44 +37,44 @@ Design patterns are implemented in programming languages
 
 ## [Structural design patterns](https://refactoring.guru/design-patterns/structural-patterns)
 
-1.  Adapter
+### Adapter
 
     | Docs                                            | Python                                                                    | Go  | PHP | Java | Rust | Ruby | Typescript |
     | ----------------------------------------------- | ------------------------------------------------------------------------- | --- | --- | ---- | ---- | ---- | ---------- |
     | [Done](./structural-patterns/adapter/README.md) | [Inheritance](./structural-patterns/adapter/inheritance.py)               |     |     |      |      |      |            |
     |                                                 | [Object composition](./structural-patterns/adapter/object_composition.py) |     |     |      |      |      |            |
 
-2.  Bridge
+### Bridge
 
     | Docs                                           | Python                                       | Go  | PHP | Java | Rust | Ruby | Typescript |
     | ---------------------------------------------- | -------------------------------------------- | --- | --- | ---- | ---- | ---- | ---------- |
     | [Done](./structural-patterns/bridge/README.md) | [Done](./structural-patterns/bridge/main.py) |     |     |      |      |      |            |
 
-3.  Composite
+### Composite
 
     | Docs | Python | Go  | PHP | Java | Rust | Ruby | Typescript |
     | ---- | ------ | --- | --- | ---- | ---- | ---- | ---------- |
     |      |        |     |     |      |      |      |            |
 
-4.  Decorator
+### Decorator
 
     | Docs | Python | Go  | PHP | Java | Rust | Ruby | Typescript |
     | ---- | ------ | --- | --- | ---- | ---- | ---- | ---------- |
     |      |        |     |     |      |      |      |            |
 
-5.  Facade
+### Facade
 
     | Docs | Python | Go  | PHP | Java | Rust | Ruby | Typescript |
     | ---- | ------ | --- | --- | ---- | ---- | ---- | ---------- |
     |      |        |     |     |      |      |      |            |
 
-6.  Flyweight
+### Flyweight
 
     | Docs | Python | Go  | PHP | Java | Rust | Ruby | Typescript |
     | ---- | ------ | --- | --- | ---- | ---- | ---- | ---------- |
     |      |        |     |     |      |      |      |            |
 
-7.  Proxy
+### Proxy
 
     | Docs | Python | Go  | PHP | Java | Rust | Ruby | Typescript |
     | ---- | ------ | --- | --- | ---- | ---- | ---- | ---------- |
@@ -82,55 +82,55 @@ Design patterns are implemented in programming languages
 
 ## [Behavioral design patterns](https://refactoring.guru/design-patterns/behavioral-patterns)
 
-1.  Chain of responsibility
+### Chain of responsibility
 
     | Docs | Python | Go  | PHP | Java | Rust | Ruby | Typescript |
     | ---- | ------ | --- | --- | ---- | ---- | ---- | ---------- |
     |      |        |     |     |      |      |      |            |
 
-2.  Command
+### Command
 
     | Docs | Python | Go  | PHP | Java | Rust | Ruby | Typescript |
     | ---- | ------ | --- | --- | ---- | ---- | ---- | ---------- |
     |      |        |     |     |      |      |      |            |
 
-3.  Iterator
+### Iterator
 
     | Docs | Python | Go  | PHP | Java | Rust | Ruby | Typescript |
     | ---- | ------ | --- | --- | ---- | ---- | ---- | ---------- |
     |      |        |     |     |      |      |      |            |
 
-4.  Mediator
+### Mediator
 
     | Docs | Python | Go  | PHP | Java | Rust | Ruby | Typescript |
     | ---- | ------ | --- | --- | ---- | ---- | ---- | ---------- |
     |      |        |     |     |      |      |      |            |
 
-5.  Memento
+### Memento
 
     | Docs | Python | Go  | PHP | Java | Rust | Ruby | Typescript |
     | ---- | ------ | --- | --- | ---- | ---- | ---- | ---------- |
     |      |        |     |     |      |      |      |            |
 
-6.  Observer
+### Observer
 
     | Docs | Python | Go  | PHP | Java | Rust | Ruby | Typescript |
     | ---- | ------ | --- | --- | ---- | ---- | ---- | ---------- |
     |      |        |     |     |      |      |      |            |
 
-7.  State
+### State
 
     | Docs | Python | Go  | PHP | Java | Rust | Ruby | Typescript |
     | ---- | ------ | --- | --- | ---- | ---- | ---- | ---------- |
     |      |        |     |     |      |      |      |            |
 
-8.  Strategy
+### Strategy
 
     | Docs | Python | Go  | PHP | Java | Rust | Ruby | Typescript |
     | ---- | ------ | --- | --- | ---- | ---- | ---- | ---------- |
     |      |        |     |     |      |      |      |            |
 
-9.  Template method
+### Template method
 
     | Docs | Python | Go  | PHP | Java | Rust | Ruby | Typescript |
     | ---- | ------ | --- | --- | ---- | ---- | ---- | ---------- |
