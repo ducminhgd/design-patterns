@@ -64,9 +64,9 @@ Design patterns are implemented in programming languages
 
 ### Facade
 
-| Docs | Python | Go  | PHP | Java | Rust | Ruby | Typescript |
-| ---- | ------ | --- | --- | ---- | ---- | ---- | ---------- |
-|      |        |     |     |      |      |      |            |
+| Docs                                           | Python                                       | Go  | PHP | Java | Rust | Ruby | Typescript |
+| ---------------------------------------------- | -------------------------------------------- | --- | --- | ---- | ---- | ---- | ---------- |
+| [Done](./structural-patterns/facade/README.md) | [Done](./structural-patterns/facade/main.py) |     |     |      |      |      |            |
 
 ### Flyweight
 

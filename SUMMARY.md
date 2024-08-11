@@ -17,3 +17,4 @@
 * [Brige](./structural-patterns/bridge/README.md)
 * [Composite](./structural-patterns/composite/README.md)
 * [Decorator](./structural-patterns/decorator/README.md)
+* [Facade](./structural-patterns/facade/README.md)
