@@ -24,3 +24,4 @@
 ## Behavioral Patterns
 
 * [Chain of Responsibility](./behavioral-patterns/chain_of_responsibility/README.md)
+* [Command](./behavioral-patterns/command/README.md)

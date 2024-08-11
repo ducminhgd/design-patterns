@@ -90,9 +90,9 @@ Design patterns are implemented in programming languages
 
 ### Command
 
-| Docs | Python | Go  | PHP | Java | Rust | Ruby | Typescript |
-| ---- | ------ | --- | --- | ---- | ---- | ---- | ---------- |
-|      |        |     |     |      |      |      |            |
+| Docs                                            | Python                                        | Go  | PHP | Java | Rust | Ruby | Typescript |
+| ----------------------------------------------- | --------------------------------------------- | --- | --- | ---- | ---- | ---- | ---------- |
+| [Done](./behavioral-patterns/command/README.md) | [Done](./behavioral-patterns/command/main.py) |     |     |      |      |      |            |
 
 ### Iterator
 
