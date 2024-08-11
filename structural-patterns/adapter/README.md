@@ -3,7 +3,7 @@ Group: Structural design patterns
 Complexity: ★☆☆
 Popularity: ★★★
 ---
-# Adapter
+# Adapter (Wrapper)
 
 Adapter is a structural design pattern that allows objects with incompatible interfaces to collaborate.
 
