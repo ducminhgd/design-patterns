@@ -102,9 +102,9 @@ Design patterns are implemented in programming languages
 
 ### Mediator
 
-| Docs | Python | Go  | PHP | Java | Rust | Ruby | Typescript |
-| ---- | ------ | --- | --- | ---- | ---- | ---- | ---------- |
-|      |        |     |     |      |      |      |            |
+| Docs                                             | Python                                         | Go  | PHP | Java | Rust | Ruby | Typescript |
+| ------------------------------------------------ | ---------------------------------------------- | --- | --- | ---- | ---- | ---- | ---------- |
+| [Done](./behavioral-patterns/mediator/README.md) | [Done](./behavioral-patterns/mediator/main.py) |     |     |      |      |      |            |
 
 ### Memento
 
