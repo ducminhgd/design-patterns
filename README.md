@@ -76,9 +76,9 @@ Design patterns are implemented in programming languages
 
 ### Proxy
 
-| Docs | Python | Go  | PHP | Java | Rust | Ruby | Typescript |
-| ---- | ------ | --- | --- | ---- | ---- | ---- | ---------- |
-|      |        |     |     |      |      |      |            |
+| Docs                                          | Python                                      | Go  | PHP | Java | Rust | Ruby | Typescript |
+| --------------------------------------------- | ------------------------------------------- | --- | --- | ---- | ---- | ---- | ---------- |
+| [Done](./structural-patterns/proxy/README.md) | [Done](./structural-patterns/proxy/main.py) |     |     |      |      |      |            |
 
 ## [Behavioral design patterns](https://refactoring.guru/design-patterns/behavioral-patterns)
 

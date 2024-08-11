@@ -19,3 +19,4 @@
 * [Decorator](./structural-patterns/decorator/README.md)
 * [Facade](./structural-patterns/facade/README.md)
 * [Flyweight](./structural-patterns/flyweight/README.md)
+* [Proxy](./structural-patterns/proxy/README.md)
