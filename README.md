@@ -58,9 +58,9 @@ Design patterns are implemented in programming languages
 
 ### Decorator
 
-| Docs | Python | Go  | PHP | Java | Rust | Ruby | Typescript |
-| ---- | ------ | --- | --- | ---- | ---- | ---- | ---------- |
-|      |        |     |     |      |      |      |            |
+| Docs                                              | Python                                          | Go  | PHP | Java | Rust | Ruby | Typescript |
+| ------------------------------------------------- | ----------------------------------------------- | --- | --- | ---- | ---- | ---- | ---------- |
+| [Done](./structural-patterns/decorator/README.md) | [Done](./structural-patterns/decorator/main.py) |     |     |      |      |      |            |
 
 ### Facade
 
