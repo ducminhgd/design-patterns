@@ -20,3 +20,7 @@
 * [Facade](./structural-patterns/facade/README.md)
 * [Flyweight](./structural-patterns/flyweight/README.md)
 * [Proxy](./structural-patterns/proxy/README.md)
+
+## Behavioral Patterns
+
+* [Chain of Responsibility](./behavioral-patterns/chain_of_responsibility/README.md)

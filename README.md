@@ -84,9 +84,9 @@ Design patterns are implemented in programming languages
 
 ### Chain of responsibility
 
-| Docs | Python | Go  | PHP | Java | Rust | Ruby | Typescript |
-| ---- | ------ | --- | --- | ---- | ---- | ---- | ---------- |
-|      |        |     |     |      |      |      |            |
+| Docs                                                            | Python                                                        | Go  | PHP | Java | Rust | Ruby | Typescript |
+| --------------------------------------------------------------- | ------------------------------------------------------------- | --- | --- | ---- | ---- | ---- | ---------- |
+| [Done](./behavioral-patterns/chain_of_responsibility/README.md) | [Done](./behavioral-patterns/chain_of_responsibility/main.py) |     |     |      |      |      |            |
 
 ### Command
 
