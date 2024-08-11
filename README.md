@@ -70,9 +70,9 @@ Design patterns are implemented in programming languages
 
 ### Flyweight
 
-| Docs | Python | Go  | PHP | Java | Rust | Ruby | Typescript |
-| ---- | ------ | --- | --- | ---- | ---- | ---- | ---------- |
-|      |        |     |     |      |      |      |            |
+| Docs                                              | Python                                          | Go  | PHP | Java | Rust | Ruby | Typescript |
+| ------------------------------------------------- | ----------------------------------------------- | --- | --- | ---- | ---- | ---- | ---------- |
+| [Done](./structural-patterns/flyweight/README.md) | [Done](./structural-patterns/flyweight/mian.py) |     |     |      |      |      |            |
 
 ### Proxy
 
