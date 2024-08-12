@@ -114,9 +114,9 @@ Design patterns are implemented in programming languages
 
 ### Observer
 
-| Docs | Python | Go  | PHP | Java | Rust | Ruby | Typescript |
-| ---- | ------ | --- | --- | ---- | ---- | ---- | ---------- |
-|      |        |     |     |      |      |      |            |
+| Docs                                             | Python                                         | Go  | PHP | Java | Rust | Ruby | Typescript |
+| ------------------------------------------------ | ---------------------------------------------- | --- | --- | ---- | ---- | ---- | ---------- |
+| [Done](./behavioral-patterns/observer/README.md) | [Done](./behavioral-patterns/observer/main.py) |     |     |      |      |      |            |
 
 ### State
 
