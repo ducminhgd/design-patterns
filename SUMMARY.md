@@ -29,3 +29,4 @@
 * [Mediator](./behavioral-patterns/mediator/README.md)
 * [Memento](./behavioral-patterns/memento/README.md)
 * [Observer](./behavioral-patterns/observer/README.md)
+* [State](./behavioral-patterns/state/README.md)

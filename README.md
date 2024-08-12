@@ -120,9 +120,9 @@ Design patterns are implemented in programming languages
 
 ### State
 
-| Docs | Python | Go  | PHP | Java | Rust | Ruby | Typescript |
-| ---- | ------ | --- | --- | ---- | ---- | ---- | ---------- |
-|      |        |     |     |      |      |      |            |
+| Docs                                          | Python                                      | Go  | PHP | Java | Rust | Ruby | Typescript |
+| --------------------------------------------- | ------------------------------------------- | --- | --- | ---- | ---- | ---- | ---------- |
+| [Done](./behavioral-patterns/state/README.md) | [Done](./behavioral-patterns/state/main.py) |     |     |      |      |      |            |
 
 ### Strategy
 
