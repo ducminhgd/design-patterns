@@ -108,9 +108,9 @@ Design patterns are implemented in programming languages
 
 ### Memento
 
-| Docs | Python | Go  | PHP | Java | Rust | Ruby | Typescript |
-| ---- | ------ | --- | --- | ---- | ---- | ---- | ---------- |
-|      |        |     |     |      |      |      |            |
+| Docs                                            | Python                                        | Go  | PHP | Java | Rust | Ruby | Typescript |
+| ----------------------------------------------- | --------------------------------------------- | --- | --- | ---- | ---- | ---- | ---------- |
+| [Done](./behavioral-patterns/memento/README.md) | [Done](./behavioral-patterns/memento/main.py) |     |     |      |      |      |            |
 
 ### Observer
 
